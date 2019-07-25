@@ -7,7 +7,7 @@ function Header() {
       <div className="container">
         <div className="col py-2 text-center">
           <img
-            class="d-block mx-auto"
+            className="d-block mx-auto"
             src={logo}
             alt=""
             width="50"
