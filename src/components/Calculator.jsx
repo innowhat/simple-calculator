@@ -47,7 +47,7 @@ class Calculator extends Component {
   render() {
     return (
       <div className="container">
-        <div className=" col-6 offset-3">
+        <div className="col-md-6 offset-md-3">
           <div className="card">
             <div className="card-header">
               <div className="input-group input-group-lg">
