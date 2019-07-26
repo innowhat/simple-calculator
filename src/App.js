@@ -1,5 +1,5 @@
 import React from "react";
-import CalculatorDisplay from "./components/CalculatorDisplay";
+import Calculator from "./components/Calculator";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <React.Fragment>
       <Header />
-      <CalculatorDisplay />
+      <Calculator />
       <Footer />
     </React.Fragment>
   );
