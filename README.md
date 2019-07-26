@@ -17,3 +17,8 @@ This is a ReactJS based Vnicorn Simple Calculator, it is meant to do the most ba
 #### vnicorn
 
 You know who you are :)
+
+## Credits
+Add more maths
+Switch from eval method
+Mobile UI enhancement
