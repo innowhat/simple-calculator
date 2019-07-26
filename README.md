@@ -2,7 +2,7 @@
 
 ![ReactJS Vnicorn Simple Calculator  ](Vnicorn-Simple-Calculator.png?raw=true "ReactJS Vnicorn Simple Calculator  ")
 
-### <a href="https://innowhat.github.io/vnicorn-meme-maker">LIVE DEMO</a>
+### <a href="https://innowhat.github.io/vnicorn-simple-calculator">LIVE DEMO</a>
 
 ## Description
 
