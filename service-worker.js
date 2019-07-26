@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vnicorn-simple-calculator/precache-manifest.5fc55af8963d4546d2949175e3869bdf.js"
+  "/vnicorn-simple-calculator/precache-manifest.6e6d8163b6764db78647599680b0a81d.js"
 );
 
 self.addEventListener('message', (event) => {
