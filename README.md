@@ -19,9 +19,9 @@ This is a ReactJS based Vnicorn Simple Calculator, it is meant to do the most ba
 You know who you are :)
 
 ## ToDo
-####Add more maths
-####Switch from eval method
-####Mobile UI enhancement
+#### Add more maths
+#### Switch from eval method
+#### Mobile UI enhancement
 
 
 ## How to install
