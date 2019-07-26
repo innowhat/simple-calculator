@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a ReactJS based Vnicorn Simple Calculator, it is meant to do the most basic calculations, I will improvements as time goes. I built this after taking a react course on Scrimba (credits below) and by and using Bootstrap Framework for styling. Feel free to resuse the project as you see fit.
+This is a ReactJS based Vnicorn Simple Calculator, it is meant to do the most basic calculations, more improvement/enhancement as time goes. I built this after taking a react course on Scrimba (credits below) and by and using Bootstrap Framework for styling. Feel free to resuse the project as you see fit.
 
 ## Credits
 
