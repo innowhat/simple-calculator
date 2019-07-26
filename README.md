@@ -18,7 +18,11 @@ This is a ReactJS based Vnicorn Simple Calculator, it is meant to do the most ba
 
 You know who you are :)
 
-## Credits
-Add more maths
-Switch from eval method
-Mobile UI enhancement
+## ToDo
+####Add more maths
+####Switch from eval method
+####Mobile UI enhancement
+
+
+## How to install
+Download > Open directory with Terminal/Command Prompt > npm install > npm start
