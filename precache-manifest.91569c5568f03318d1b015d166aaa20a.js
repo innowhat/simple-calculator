@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vnicorn-simple-calculator/index.html"
   },
   {
-    "revision": "6f7584fa218cf5d4bdb3",
+    "revision": "5cc5595b125ecea47a5e",
     "url": "/vnicorn-simple-calculator/static/css/2.22a7d4ef.chunk.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vnicorn-simple-calculator/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "6f7584fa218cf5d4bdb3",
+    "revision": "5cc5595b125ecea47a5e",
     "url": "/vnicorn-simple-calculator/static/js/2.d249d91e.chunk.js"
   },
   {
