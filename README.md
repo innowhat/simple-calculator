@@ -1,8 +1,8 @@
-# React JS Vnicorn Simple Calculator
+# React JS Simple Calculator
 
-![ReactJS Vnicorn Simple Calculator  ](Vnicorn-Simple-Calculator.png?raw=true "ReactJS Vnicorn Simple Calculator  ")
+![ReactJS Vnicorn Simple Calculator  ](Vnicorn-Simple-Calculator.png?raw=true "ReactJS Simple Calculator  ")
 
-### <a href="https://innowhat.github.io/vnicorn-simple-calculator">LIVE DEMO</a>
+### <a href="https://innowhat.github.io/simple-calculator">LIVE DEMO</a>
 
 ## Description
 
@@ -14,9 +14,6 @@ This is a ReactJS based Vnicorn Simple Calculator, it is meant to do the most ba
 
 <a href="https://scrimba.com/g/glearnreact">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
 
-#### vnicorn
-
-You know who you are :)
 
 ## ToDo
 #### Add more maths
