@@ -13,7 +13,7 @@ function Header() {
             width="50"
             height="50"
           />
-          <h3>Vnicorn Simple Calculator</h3>
+          <h3>Simple Calculator</h3>
         </div>
       </div>
     </header>

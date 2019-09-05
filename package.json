@@ -1,8 +1,8 @@
 {
-  "name": "vnicorn-simple-calculator",
+  "name": "simple-calculator",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://innowhat.github.io/vnicorn-simple-calculator",
+  "homepage": "https://innowhat.github.io/simple-calculator",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
